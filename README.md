@@ -1,5 +1,4 @@
 ### Hi there 👋
-I'm Azhe from Indonesia!
 
 TL;DR
 
@@ -10,4 +9,4 @@ On Error Resume Next
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=azhe403&show_icons=true)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=azhe403&layout=compact&show_icons=true&langs_count=10)
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=azhe403&show_icons=true&langs_count=15)
